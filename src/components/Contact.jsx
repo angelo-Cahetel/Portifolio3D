@@ -30,13 +30,11 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-// Z1LnDgny5531xjEYB
-    // template_q5rgytm
-    // service_gxoycx5
+    
     emailjs
       .send(
-        'service_gxoycx5',
-        'template_q5rgytm',
+        'service_andwsi5',
+        'template_r208yxw',
         {
           from_name: form.name,
           to_name: "Angelo",
@@ -44,7 +42,7 @@ const Contact = () => {
           to_email: "angelo030825@gmail.com",
           message: form.message,
         },
-        'Z1LnDgny5531xjEYB'
+        'ThPqrdc7U1nYAM7cv'
       )
       .then(
         () => {
@@ -59,7 +57,7 @@ const Contact = () => {
         },
         (error) => {
           setLoading(false);
-          console.error(error);
+          console.log(error);
 
           alert("Ahh, something went wrong. Please try again.");
         }
@@ -136,3 +134,7 @@ const Contact = () => {
 };
 
 export default SectionWrapper(Contact, "contact");
+
+    // Z1LnDgny5531xjEYB
+    // template_q5rgytm
+    // service_gxoycx5

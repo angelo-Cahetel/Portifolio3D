@@ -95,4 +95,3 @@ const Works = () => {
 
 export default SectionWrapper(Works, "");
 
-// The projects presented below are concrete examples of my skills and experience in action. Each one is briefly described and includes links to both code repositories and live demos. They serve as evidence of my capacity to tackle complex problems, work with diverse technologies, and successfully manage projects.

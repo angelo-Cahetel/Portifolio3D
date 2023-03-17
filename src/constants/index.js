@@ -116,15 +116,15 @@ import {
   
   const experiences = [
     {
-      title: "Weater app",
-      company_name: "Personal project",
-      icon: cloud,
+      title: "Web Developer",
+      company_name: "Personal Project",
+      icon: receita,
       iconBg: "#383E56",
-      date: "Feb 2023",
+      date: "Sept 2022",
       points: [
-        "I developed a weather app using java scrip.",
-        "A fully functional application that allows you to check the temperature of any country.",
-        "Using functional design for the best user experience",
+        "I used HTML and CSS to develop a recipe website.",
+        "Utilizing assets to simplify website maintenance.",
+        "The website is completely responsive, catering to both web and mobile users.",
       ],
     },
     {
@@ -135,20 +135,20 @@ import {
       date: "Jan 2023",
       points: [
         "I used JavaScript to develop a calculator.",
-        "I used JavaScript to develop a fully functional calculator.",
+        "I develop a fully functional calculator.",
         "I employed a modern and responsive design to enhance the user experience.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Personal Project",
-      icon: receita,
+      title: "Weater app",
+      company_name: "Personal project",
+      icon: cloud,
       iconBg: "#383E56",
-      date: "Sept 2022",
+      date: "Feb 2023",
       points: [
-        "I used HTML and CSS to develop a recipe website.",
-        "Utilizing assets to simplify website maintenance.",
-        "The website is completely responsive, catering to both web and mobile users.",
+        "I developed a weather app using java scrip.",
+        "A fully functional application that allows you to check the temperature of any country.",
+        "Using functional design for the best user experience",
       ],
     },
     {
@@ -168,27 +168,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "",
+      name: "",
+      designation: "",
+      company: "",
+      image: "",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "",
+      name: "",
+      designation: "",
+      company: "",
+      image: "",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "",
+      name: "",
+      designation: "",
+      company: "",
+      image: "",
     },
   ];
   
@@ -203,11 +203,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "javaScript",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "javasSript",
           color: "pink-text-gradient",
         },
       ],
@@ -224,11 +224,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "javaScript",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "javaScript",
           color: "pink-text-gradient",
         },
       ],
