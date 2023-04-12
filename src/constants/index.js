@@ -128,7 +128,7 @@ import {
       ],
     },
     {
-      title: "calculator",
+      title: "Calculator",
       company_name: "Personal Project",
       icon: calculadora,
       iconBg: "#383E56",
