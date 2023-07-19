@@ -29,6 +29,7 @@ import cloud from "./company/cloud.png";
 import calculadora from "./company/calculadora.png";
 import receita from "./company/receita.png";
 import logoco from "./company/logoco.png";
+import poliverso from "./company/poliverso.jpg";
 
 import carrent from "./weaterApp.png";
 import jobit from "./ParticlesJS.png";
@@ -67,4 +68,5 @@ export {
   calculadora,
   receita,
   logoco,
+  poliverso,
 };

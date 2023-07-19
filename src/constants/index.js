@@ -24,8 +24,8 @@ import {
     tripguide,
     threejs,
     calculadora,
-    receita,
     logoco,
+    poliverso,
   } from "../assets";
   
   export const navLinks = [
@@ -72,10 +72,10 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
+    // {
+    //   name: "TypeScript",
+    //   icon: typescript,
+    // },
     {
       name: "React JS",
       icon: reactjs,
@@ -104,10 +104,10 @@ import {
       name: "git",
       icon: git,
     },
-    // {
-    //   name: "figma",
-    //   icon: figma,
-    // },
+    {
+      name: "figma",
+      icon: figma,
+    },
     // {
     //   name: "docker",
     //   icon: docker,
@@ -117,13 +117,13 @@ import {
   const experiences = [
     {
       title: "Web Developer",
-      company_name: "Personal Project",
-      icon: receita,
+      company_name: "Poliverso Films",
+      icon: poliverso,
       iconBg: "#383E56",
-      date: "Sept 2022",
+      date: "july 2023",
       points: [
-        "I used HTML and CSS to develop a recipe website.",
-        "Utilizing assets to simplify website maintenance.",
+        "This was my first job as a freelancer.",
+        "I developed this site using HTMl CSS and JavaScript and some APIs.",
         "The website is completely responsive, catering to both web and mobile users.",
       ],
     },
